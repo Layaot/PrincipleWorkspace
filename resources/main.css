@@ -1,0 +1,30 @@
+.bottom{
+    position: absolute; bottom: 0; left: 0; right: 0; background-color: #bf0000; color: white; font-size: 12px; text-align: center;
+}
+a{
+    color: white; text-decoration: none;
+}
+.main{
+    position: absolute; left: 15%; right: 25%; top: 6.5%; bottom: 40%; background-color: #bf0000; text-align: center; background-position: top; background-repeat: space;
+}
+.main p{
+    color: #ffffff; font-size: 48px; text-align: left;
+}
+.main h2{
+    color: #ffffff; font-size: 32px; text-align: left;
+}
+.main h1{
+    color: #ffffff; font-size: 64px; text-align: left;
+}
+.icon{
+    position: fixed; left: 2.5%; right: 97.5%; top: 5; height: 40px; width: 160px;
+}
+.titlebar{
+    position: fixed; left: 15%; right: 0; top: 0; bottom: auto; background-color: #bf0000; color: white; font-size: 16px; text-align: left;
+}
+.list{
+    list-style-type: none;
+}
+.list li{
+    display:inline; padding:50px;
+}
