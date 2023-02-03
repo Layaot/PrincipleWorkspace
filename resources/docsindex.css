@@ -1,3 +1,9 @@
 .docsbody{
-    position: absolute; top: 10%; left: 15%; right: 15; 
+    position: absolute; top: 10%; left: 15%; right: 15%; 
+}
+.listbody{
+    position: absolute; top: auto; left: 0; right: 50%; background-color: #bf0000;
+}
+.listbody ul{
+    list-style-type: none;
 }
